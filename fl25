@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: Evitar filas virtuales
+! Expires: 1 hour
+! Homepage: https://google.com
+! Licence: https://www.wtfpl.net/txt/copying/
+! Homepage: https://guillen.link
+! Version: 
+! Last modified:
+
+||queue-it.net^
+queue
+*queue-it.net*
+*queue-it.net
+queue-it.net
